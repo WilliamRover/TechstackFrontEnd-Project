@@ -51,7 +51,7 @@ lan2Btn.onclick = function() {
 
 async function switchLanBtn(key) {
     try {
-        const response = await fetch(`../data/lang/${key}.json`);
+        const response = await fetch(`./data/lang/${key}.json`);
         const file = await response.json();
         let lanPos = file["navbar"]["lan"]
         // Lan img
