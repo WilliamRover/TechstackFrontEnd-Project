@@ -1,0 +1,69 @@
+{
+    "navbar": {
+        "buttons": {
+            "gallery": "Triển lãm",
+            "projects": "Dự án",
+            "comics": "Truyện tranh"
+        },
+        "search": "Tìm kiếm...",
+        "lan": [
+            {
+                "innerImg":"../Reuse/Navbar/img/Flag_of_Vietnam.svg.png",
+                "innerSpan":"Tiếng Việt",
+                "lang":"vn"
+            },
+            {
+                "innerImg":"../Reuse/Navbar/img/Flag_of_Finland-01.png",
+                "innerSpan":"Suomeksi",
+                "lang": "fi"
+            },
+            {
+                "innerImg": "../Reuse/Navbar/img/Flag_of_England.png",
+                "innerSpan": "English", 
+                "lang": "en"
+            }
+        ],
+        "theme": ["Nền sáng", "Nền tối"],
+        "clipboard": "Đã sao chép vào bảng nhớ tạm!",
+        "download": "Đang tải file"
+    },
+
+    "footer": {
+        "desc": "Đếch có gì ở đây đâu mà tò với mò :P"
+    },
+
+    "homepage": {
+        "desc": "Một thằng động vật có vú đang thở không khí Trái Đất. Là một chú sinh viên. Có kinh nghiệm trong thiết kế đồ họa, lập trình front-end và minh họa. Đôi khi thích thì vẽ truyện.",
+        "category": {
+            "cat1": "TRIỂN LÃM",
+            "cat2": "DỰ ÁN",
+            "cat3": "TRUYỆN TRANH\n(đến sau)"
+        }
+    },
+
+    "gallery": {
+        "date": ["(Không tìm được)", "Tháng 1", "Tháng 2", "Tháng 3", "Tháng 4", "Tháng 5", "Tháng 6", "Tháng 7", "Tháng 8", "Tháng 9", "Tháng 10", "Tháng 11", "Tháng 12"],
+        "typeGeneral":["Ảnh", "Video", "Hình nền động"],
+        "sort": {
+            "aToz": "A đến Z",
+            "zToa": "Z đến A",
+            "newest": "Mới nhất",
+            "oldest": "Cũ nhất"
+        },
+        "work": {
+            "info": {
+                "author": "Tác giả: ",
+                "dateCreated": "Ngày tạo: ",
+                "type": "Loại: ",
+                "fileType": "Định dạng: ",
+                "size": "Kích thước: ",
+                "dimensions": "Độ phân giải: "
+            },
+            "function": {
+                "view": "Xem tác phẩm",
+                "download": "Tải về",
+                "link": "Link"
+            }
+        }
+    }
+}

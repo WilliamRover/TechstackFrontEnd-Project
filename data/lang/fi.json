@@ -1,0 +1,69 @@
+{
+    "navbar": {
+        "buttons": {
+            "gallery": "Galleria",
+            "projects": "Projektit",
+            "comics": "Sarjakuvat"
+        },
+        "search": "Haku...",
+        "lan": [
+            {
+                "innerImg":"../Reuse/Navbar/img/Flag_of_Finland-01.png",
+                "innerSpan":"Suomeksi",
+                "lang":"fi"
+            },
+            {
+                "innerImg": "../Reuse/Navbar/img/Flag_of_England.png",
+                "innerSpan": "English", 
+                "lang": "en"
+            },
+            {
+                "innerImg":"../Reuse/Navbar/img/Flag_of_Vietnam.svg.png",
+                "innerSpan":"Tiếng Việt",
+                "lang": "vn"
+            }
+        ],
+        "theme": ["Valo tila", "Tumma tila"],
+        "clipboard": "Kopioitu leikepöydälle!",
+        "download": "Ladataan tiedostoa"
+    },
+
+    "footer": {
+        "desc": "Ei mitään nähtä täällä :P"
+    },
+
+    "homepage": {
+        "desc": "Normaali nisäkäs hengittää maan ilmaa. Opiskelen yliopistossa hetkellä. Mulla kokemusta graafisesta suunnittelusta, front-end-kehityksestä ja kuvittamisesta. Silloin tällöin teen sarjakuvia harrastuksena.",
+        "category": {
+            "cat1": "GALLERIA",
+            "cat2": "PROJEKTIT",
+            "cat3": "SARJAKUVAT\n(pian)"
+        }
+    },
+
+    "gallery": {
+        "date": ["(Jäljittämätön)", "Tammikuu", "Helmikuu", "Maaliskuu", "Huhtikuu", "Toukokuu", "Kesäkuu", "Heinäkuu", "Elokuu", "Syyskuu", "Lokakuu", "Marraskuu", "Joulukuu"],
+        "typeGeneral":["Kuva", "Videot", "Interaktiivinen tausta"],
+        "sort": {
+            "aToz": "A:sta Ö:hön",
+            "zToa": "Ö:sta A:hön",
+            "newest": "Uusin ensin",
+            "oldest": "Vanhin ensin"
+        },
+        "work": {
+            "info": {
+                "author": "Kirjoittaja: ",
+                "dateCreated": "Luontipäivämäärä: ",
+                "type": "Tyyppi: ",
+                "fileType": "Tiedostotyyppi: ",
+                "size": "Tiedostokoko: ",
+                "dimensions": "Mitat: "
+            },
+            "function": {
+                "view": "Näytä työ",
+                "download": "Lataa",
+                "link": "Linkki"
+            }
+        }
+    }
+}
