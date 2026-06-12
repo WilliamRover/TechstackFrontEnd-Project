@@ -107,7 +107,7 @@ async function switchLanBtn(key) {
 }
 
 function checkSwitchPos(key, pos) {
-    fetch(`${window.location.origin}/data/lang/${key}.json`).then(response => {
+    fetch(`../data/lang/${key}.json`).then(response => {
         return response.json();
     }).then(file => {
         var lang = file["navbar"]["lan"]
